@@ -1,0 +1,4 @@
+# Hugo specific
+/public/
+/resources/
+.hugo_build.lock
